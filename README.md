@@ -3,7 +3,7 @@
 Красивая и адаптивная копия лендинга Cuphead. Проект создан в учебных целях как клон оригинального сайта.
 
 ## Демо
-- Продакшен: `https://anonimus099.github.io/CupHead-website-clone/`
+- Продакшен: https://anonimus099.github.io/CupHead-website-clone/
 
 ## Возможности
 - Адаптивная вёрстка (desktop/mobile)
