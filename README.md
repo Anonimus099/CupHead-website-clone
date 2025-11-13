@@ -1,20 +1,26 @@
-# CupHead | Clone
+CupHead | Clone
 
-Красивая и адаптивная копия лендинга Cuphead. Проект создан в учебных целях как клон оригинального сайта.
+A beautiful, responsive clone of the CupHead landing page. This project is created for educational purposes as a clone of the original site.
 
-## Возможности
-- Адаптивная вёрстка (desktop/mobile)
-- Карточки игр с CTA-кнопками
-- Встраиваемые видео (YouTube iframe)
-- Оверлеи выбора платформы
-- Аккуратная типографика и лёгкие анимации
+🚀 Features
 
-## Технологии
-- HTML5, CSS3
-- Нативный JavaScript (логика модальных окон)
+Responsive layout (desktop & mobile)
 
-## Структура
-```
+Game cards with CTA buttons
+
+Embedded videos (YouTube iframe)
+
+Platform selection overlays
+
+Clean typography and smooth animations
+
+🛠️ Technologies
+
+HTML5, CSS3
+
+Vanilla JavaScript (modal window logic)
+
+📁 Project Structure
 cupHead/
 ├─ index.html
 ├─ styles/
@@ -26,34 +32,39 @@ cupHead/
    ├─ logo/
    ├─ overlay-logo/
    └─ pictures/
-```
 
-## Локальный запуск
-```bash
+💻 Local Setup
 git clone <your-repo-url>
 cd cupHead
-# опционально запустить статический сервер
+# Optional: start a static server
 npx serve .
-# или
+# or
 python -m http.server 8080
-```
 
-## Деплой на GitHub Pages
-1) Убедитесь, что пути к картинкам относительные: `./img/...` (не `/img/...`).
-2) Закоммитьте и запушьте в ветку `main`:
-```bash
+🌐 Deploy on GitHub Pages
+
+Ensure image paths are relative: ./img/... (not /img/...).
+
+Commit & push to the main branch:
+
 git add -A
 git commit -m "docs: add README; fix relative image paths"
 git push origin main
-```
-3) Settings → Pages → Source: Deploy from a branch → Branch: `main` / `(root)`.
 
-## Частые сообщения в консоли
-- `net::ERR_BLOCKED_BY_CLIENT` к доменам `googleads.g.doubleclick.net` или `www.youtube.com/youtubei/v1/log_event` — это блокировка расширениями (AdBlock и пр.), не ошибка вашего сайта.
-- `Permissions policy violation: compute-pressure is not allowed` — предупреждение политики браузера для встраиваемого контента (YouTube). Игнорируйте.
 
-## Примечание о файлах
-- Избегайте пробелов в именах файлов (например, `logo (1).png`). Лучше `logo.png` и обновить путь в `index.html`.
+Go to Settings → Pages → Source:
+Select Deploy from a branch → Branch: main / (root).
 
-## Правовой дисклеймер
-Это учебный клон оригинального сайта. Все торговые марки и изображения принадлежат их владельцам (StudioMDHR и др.). Используйте материалы ответственно.
+⚠️ Common Console Messages
+
+net::ERR_BLOCKED_BY_CLIENT (domains like googleads.g.doubleclick.net or YouTube) — caused by browser extensions (AdBlock). Not your site’s error.
+
+Permissions policy violation: compute-pressure is not allowed — YouTube iframe warning. Can be ignored.
+
+📝 File Notes
+
+Avoid spaces in filenames (e.g., logo (1).png). Use logo.png and update paths in index.html.
+
+⚖️ Legal Disclaimer
+
+This is an educational clone of the original site. All trademarks and images belong to their respective owners (StudioMDHR, etc.). Use responsibly.
