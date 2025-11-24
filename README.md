@@ -20,25 +20,25 @@ HTML5, CSS3
 
 Vanilla JavaScript (modal window logic)
 
-📁 Project Structure
+## 📁 Project Structure
 cupHead/
-## ├─ index.html
-## ├─ styles/
-## │  └─ index.css
-## ├─ index.js
-## └─ img/
-  ## ├─ company-logo/
-  ## ├─ favicon/
-  ## ├─ logo/
-  ## ├─ overlay-logo/
-  ## └─ pictures/
+### ├─ index.html
+### ├─ styles/
+### │  └─ index.css
+### ├─ index.js
+### └─ img/
+  ### ├─ company-logo/
+  ### ├─ favicon/
+  ### ├─ logo/
+  ### ├─ overlay-logo/
+  ### └─ pictures/
 
-💻 Local Setup
+## 💻 Local Setup
 git clone <your-repo-url>
 cd cupHead
-# Optional: start a static server
+## Optional: start a static server
 npx serve .
-# or
+## or
 python -m http.server 8080
 
 ## 🌐 Deploy on GitHub Pages
