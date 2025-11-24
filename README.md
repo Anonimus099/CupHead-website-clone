@@ -22,16 +22,16 @@ Vanilla JavaScript (modal window logic)
 
 📁 Project Structure
 cupHead/
-├─ index.html
-├─ styles/
-│  └─ index.css
-├─ index.js
-└─ img/
-   ├─ company-logo/
-   ├─ favicon/
-   ├─ logo/
-   ├─ overlay-logo/
-   └─ pictures/
+#├─ index.html
+#├─ styles/
+#│  └─ index.css
+#├─ index.js
+#└─ img/
+  # ├─ company-logo/
+  # ├─ favicon/
+  # ├─ logo/
+  # ├─ overlay-logo/
+  # └─ pictures/
 
 💻 Local Setup
 git clone <your-repo-url>
