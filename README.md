@@ -18,7 +18,8 @@ Clean typography and smooth animations
 <img src="https://skillicons.dev/icons?i=git,js,html,css,vscode" /> 
 
 ## 📁 Project Structure
-```cupHead/
+```
+cupHead/
 ├── 📁 img/               # Graphic resources and logos
 │   ├── company-logo/
 │   ├── favicon/
