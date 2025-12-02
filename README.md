@@ -15,10 +15,7 @@ Platform selection overlays
 Clean typography and smooth animations
 
 ## 🛠️ Technologies
-
-HTML5, CSS3
-
-Vanilla JavaScript (modal window logic)
+<img src="https://skillicons.dev/icons?i=git,js,html,css,vscode" /> (modal window logic)
 
 ## 📁 Project Structure
 cupHead/
