@@ -15,7 +15,7 @@ Platform selection overlays
 Clean typography and smooth animations
 
 ## 🛠️ Technologies
-<img src="https://skillicons.dev/icons?i=git,js,html,css,vscode" /> (modal window logic)
+<img src="https://skillicons.dev/icons?i=git,js,html,css,vscode" /> 
 
 ## 📁 Project Structure
 cupHead/
