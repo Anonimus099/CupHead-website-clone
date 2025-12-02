@@ -18,17 +18,17 @@ Clean typography and smooth animations
 <img src="https://skillicons.dev/icons?i=git,js,html,css,vscode" /> 
 
 ## 📁 Project Structure
-cupHead/
-### ├─ index.html
-### ├─ styles/
-### │  └─ index.css
-### ├─ index.js
-### └─ img/
-  ### ├─ company-logo/
-  ### ├─ favicon/
-  ### ├─ logo/
-  ### ├─ overlay-logo/
-  ### └─ pictures/
+```cupHead/
+├── 📁 img/               # Graphic resources and logos
+│   ├── company-logo/
+│   ├── favicon/
+│   ├── logo/
+│   ├── overlay-logo/
+│   └── pictures/
+├── 📁 styles/            
+│   └── index.css         # Basics styles
+├── index.html            # Entry point
+└── index.js              # Logic script
 
 ## 💻 Local Setup
 git clone <your-repo-url>
