@@ -32,6 +32,10 @@ cupHead/
 └── index.js              # Logic script
 ```
 
+## 📸 Screenshots
+
+<img width="920" height="951" alt="cupehead-img" src="https://github.com/user-attachments/assets/bf7d2faa-46d3-4ac9-9972-e101abceb892" />
+
 ## 💻 Local Setup
 git clone <your-repo-url>
 cd cupHead
