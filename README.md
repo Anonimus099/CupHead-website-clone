@@ -29,6 +29,7 @@ Clean typography and smooth animations
 │   └── index.css         # Basics styles
 ├── index.html            # Entry point
 └── index.js              # Logic script
+```
 
 ## 💻 Local Setup
 git clone <your-repo-url>
